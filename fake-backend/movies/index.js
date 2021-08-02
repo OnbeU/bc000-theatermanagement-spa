@@ -11,18 +11,6 @@ module.exports = async function (context, req) {
           "title": "Rogue One: A Star Wars Story"
         },
         {
-          "id": "tt0120915",
-          "title": "Star Wars: Episode I - The Phantom Menace"
-        },
-        {
-          "id": "tt0121765",
-          "title": "Star Wars: Episode II - Attack of the Clones"
-        },
-        {
-          "id": "tt0121766",
-          "title": "Star Wars: Episode III - Revenge of the Sith"
-        },
-        {
           "id": "tt0076759",
           "title": "Star Wars: Episode IV - A New Hope"
         },
